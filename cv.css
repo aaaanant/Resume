@@ -1,0 +1,108 @@
+
+
+#heading {
+    text-align: center;
+}
+
+#heading h1 {
+    font-size: 26px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+#heading h3 {
+    font-size: 20px;
+}
+
+#detail a {
+    color: blue;
+}
+
+#detail {
+    padding-left: 225px;
+    font-size: 18px;
+}
+
+#object {
+   padding-left: 10px;
+    border: 1px solid transparent;
+    margin-left: 225px;
+    margin-right: 225px ;
+    background-color: grey;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#object1 {
+    padding-left: 225px;
+    padding-right: 225px;
+    font-size: 17px;
+}
+
+#table1 {
+    padding-left: 225px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+table tr, th, td {
+    border: 1px solid black;
+    padding: 13px;
+    font-size: 15px;
+}
+
+#certificate{
+    font-size: 20px;
+    padding-left: 225px;
+    padding-right: 225px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#certificate ul {
+    font-size: 17px;
+}
+
+#skill {
+    padding-left: 10px;
+    border: 2px solid transparent;
+    margin-left: 225px;
+    margin-right: 225px;
+    background-color: grey;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#skill h1 {
+    font-size: 25px;
+}
+
+#skill1 ul {
+    padding-left: 260px;
+}
+
+#personal {
+    border: 1px solid transparent;
+    background-color: grey;
+    margin-left: 225px;
+    margin-right: 225px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding-left: 10px;
+
+}
+
+#personal1 {
+    padding-left: 225px;
+}
+
+#name {
+    margin-top: 60px;
+    padding-left: 225px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
